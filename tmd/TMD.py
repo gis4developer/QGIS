@@ -157,7 +157,7 @@ class TMD:
 
         # Declare instance attributes
         self.actions = []
-        self.menu = self.tr(u'&TMD by GIS4Dev')
+        self.menu = self.tr(u'&Thai Meteorological Department (TMD)')
 
         # Check if plugin was started the first time in current QGIS session
         # Must be set in initGui() to survive plugin reloads
@@ -259,7 +259,7 @@ class TMD:
         icon_path = ':/plugins/TMD/icon.png'
         self.add_action(
             icon_path,
-            text=self.tr(u'TMD by GIS4Dev'),
+            text=self.tr(u'Thai Meteorological Department (TMD)'),
             callback=self.run,
             parent=self.iface.mainWindow())
 
@@ -271,7 +271,7 @@ class TMD:
         """Removes the plugin menu item and icon from QGIS GUI."""
         for action in self.actions:
             self.iface.removePluginWebMenu(
-                self.tr(u'&TMD by GIS4Dev'),
+                self.tr(u'&Thai Meteorological Department (TMD)'),
                 action)
             self.iface.removeToolBarIcon(action)
 
