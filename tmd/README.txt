@@ -1,4 +1,8 @@
-Official page on Facebook : https://www.facebook.com/GIS4Dev-101058764633058/
+=========================
+==== GIS 4 Developer ====
+=========================
+Official page on Facebook.
+https://www.facebook.com/GIS4Dev-101058764633058/
 
 ====================
 ==== TMD Plugin ====
