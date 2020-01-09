@@ -3,17 +3,17 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=TMD by GIS4Dev
+name=Thailand Meteorological Department (TMD)
 qgisMinimumVersion=3.2
-description=Get Weather Today from v2.00
-version=0.1
+description=Get Data from Thailand Meteorological Department API : TMDAPI
+version=0.3
 author=GIS4Dev
 email=gis4developer@gmail.com
 
-about=Provide a brief description of the plugin and its purpose.
+about=This pluging will retrive data from The Thai Meteorological Department (TMD) via public webservice (https://data.tmd.go.th/api/index1.php) and show data in QGIS. In version 0.2 can use [✓] WeatherToday
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/gis4developer/QGIS/issues
+repository=https://github.com/gis4developer/QGIS/tree/master/tmd
 # End of mandatory metadata
 
 # Recommended items:
@@ -23,7 +23,7 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=tmd,gis4dev,thai,weather
 
 homepage=https://www.facebook.com/GIS4Dev-101058764633058/
 category=Web
