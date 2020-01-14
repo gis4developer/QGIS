@@ -1,25 +1,32 @@
 ==============================
-==== TMD Plugin Home Page ====
+========= TMD Plugin =========
 ==============================
+Home Page:
 https://github.com/gis4developer/QGIS/tree/master/tmd
 
-=========================
-==== GIS 4 Developer ====
-=========================
+About:
+This pluging will retrive data from The Thai Meteorological Department (TMD) via public webservice (https://data.tmd.go.th/api/index1.php)
+and show data in QGIS.
+
+==== version 0.3 ====
+[✓] WeatherToday 2.0
+
+
+
+===============================
+==== About GIS 4 Developer ====
+===============================
 Official page on Facebook.
 https://www.facebook.com/GIS4Dev-101058764633058/
 
 Facebook QGIS Plugin (TMD) group.
 https://www.facebook.com/groups/820916811691945/
 
-====================
-==== TMD Plugin ====
-====================
-This pluging will retrive data from The Thai Meteorological Department (TMD) via public webservice (https://data.tmd.go.th/api/index1.php)
-and show data in QGIS.
+Youtube Channel:
+https://www.youtube.com/user/pattrawuth
 
-==== version 0.3 ====
-[✓] WeatherToday 2.0
+Twitter:
+https://twitter.com/pattrawuth4
 
 
 Mr.M
