@@ -2,6 +2,9 @@
 ========= TMD Plugin =========
 ==============================
 Home Page:
+https://github.com/gis4developer/QGIS
+
+TMD Plugin Page:
 https://github.com/gis4developer/QGIS/tree/master/tmd
 
 About:
@@ -10,8 +13,6 @@ and show data in QGIS.
 
 ==== version 0.3 ====
 [✓] WeatherToday 2.0
-
-
 
 ===============================
 ==== About GIS 4 Developer ====
