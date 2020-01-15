@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/TMD" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
