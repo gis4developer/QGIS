@@ -4,8 +4,6 @@ TMD Plugin
 <h4>Home Page:</h4>
 https://github.com/gis4developer/QGIS
 <br>
-<h4>TMD Plugin Page:</h4>
-https://github.com/gis4developer/QGIS/tree/master/tmd
 <br>
 <h4>About:</h4>
 This pluging will retrive data from The Thai Meteorological Department (TMD) via public webservice (https://data.tmd.go.th/api/index1.php)
